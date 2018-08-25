@@ -11,7 +11,7 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: green; <!-- #fed136; -->
 }
 
 a:hover {
