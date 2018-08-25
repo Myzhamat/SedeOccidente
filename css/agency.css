@@ -1,6 +1,17 @@
 /*!
  * Copyright 2018
  */
+20%; float: left; }
+div#slider figure { 
+  position: relative;
+  width: 500%;
+  margin: 0;
+  left: 0;
+  text-align: left;
+  font-size: 0;
+  animation: 30s slidy infinite; 
+}
+
 body {
   overflow-x: hidden;
   font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
