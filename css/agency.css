@@ -11,7 +11,7 @@ p {
 }
 
 a {
-  color: blue; <!-- #fed136; -->
+  color: #fed136;
 }
 
 a:hover {
@@ -19,7 +19,7 @@ a:hover {
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: blue; <!-- #fed136 !important; -->
 }
 
 h1,
