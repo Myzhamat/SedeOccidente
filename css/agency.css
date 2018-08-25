@@ -11,7 +11,7 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #050300;
 }
 
 a:hover {
@@ -68,8 +68,8 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #050300;
+  border-color: #050300;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -83,7 +83,7 @@ section h3.section-subheading {
 }
 
 ::-moz-selection {
-  background: #fed136;
+  background: #050300;
   text-shadow: none;
 }
 
